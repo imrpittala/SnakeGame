@@ -139,7 +139,7 @@ Done! Master level
 
 ---
 
-## 🎓 For Your BTech Project
+## 🎓 For Your  Project
 
 ### You Have Everything For:
 1. **Source Code** - 3 complete Java files
@@ -151,7 +151,7 @@ Done! Master level
 7. **Report Material** - Project summary and details
 8. **Project Management** - Timeline and checklists
 
-### Expected Grade: A+ (If you follow all guides)
+
 
 ---
 
@@ -236,7 +236,7 @@ That's it! Game runs.
 - ✅ Write professional reports
 - ✅ Give technical presentations
 
-**Result:** Excellent BTech project grade
+**Result:** Excellent Result
 
 ---
 
@@ -284,7 +284,7 @@ This is a **complete, production-ready project** with:
 - ✅ Testing framework
 - ✅ Everything you need
 
-**Follow the guides, and you will get an A+ grade!**
+
 
 ---
 
