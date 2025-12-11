@@ -419,7 +419,7 @@ Good luck! 🚀🎮
 
 ---
 
-**Created by**: Your AI Instructor  
-**For**: BTech 2nd Year Students  
-**Date**: December 2024  
+**Created by**: Raghavendra Pittala     
+**For**: 2nd Year I Sem Project
+**Date**: 11 December 2024  
 **Status**: Complete & Ready for Submission
