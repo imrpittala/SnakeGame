@@ -131,7 +131,7 @@ Both run simultaneously (concurrent execution)
 
 ---
 
-## 🎯 For Your BTech Submission
+## 🎯 For Your Submission
 
 ### Documentation to Include
 
