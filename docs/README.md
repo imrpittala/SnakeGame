@@ -1,4 +1,4 @@
-# Multi-Threaded Snake Game for BTech Project
+# Multi-Threaded Snake Game 
 
 ## How to Compile and Run
 
@@ -92,9 +92,9 @@ Point.java (Data Class)
     └─ Stores x, y coordinates for snake segments
 ```
 
-## For Your BTech Project Report
+## For Your Project Report
 
-### What to Document
+### What to Document?
 
 1. **System Design**
    - Class diagram showing relationships
@@ -165,5 +165,4 @@ Point.java (Data Class)
 
 ## Good Luck!
 
-This is a complete, working game ready for your BTech project submission.
-Make sure to understand each part and be able to explain the threading concepts during your viva!
+This is a complete game, made for my project. Hope it helps!
