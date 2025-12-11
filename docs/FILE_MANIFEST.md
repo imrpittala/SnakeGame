@@ -193,7 +193,7 @@ java SnakeGame
 
 ---
 
-## 🎓 For Your BTech Report
+## 🎓 For Your Report
 
 ### Include in Your Report:
 
@@ -367,7 +367,7 @@ You have:
 - ✅ Testing guide
 - ✅ Project summary
 
-**Everything needed for a successful BTech project submission!**
+**Everything needed for a successful project submission!**
 
 ---
 
@@ -427,7 +427,7 @@ Project Submission/
 
 ---
 
-**Good luck with your BTech project!** 🎉
+**Good luck with your project!** 🎉
 
 For questions, refer to the appropriate documentation file.
 Everything you need is included here.
